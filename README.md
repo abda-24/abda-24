@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/sS5iI1z.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/dev-abda/Readmes-Gifs/main/Banners/sS5iI1z.gif" width="100%"/>
 </div>
 
   
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dJjA28M.gif" width="400px" alt="ASCII Coder Cat"/>
+  <img src="https://raw.githubusercontent.com/dev-abda/Readmes-Gifs/main/Gifs/dJjA28M.gif" width="400px" alt="ASCII Coder Cat"/>
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<img src="https://i.imgur.com/ZgJmP3Z.gif" alt="Cyberpunk Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/dev-abda/Readmes-Gifs/main/Dividers/ZgJmP3Z.gif" alt="Cyberpunk Divider" width="100%"/>
 
 ### <p align="center"> ⌬ BIO-ENHANCEMENT REPORT ⌬ </p>
 <p align="center">
@@ -33,7 +33,7 @@
   </em>
 </p>
 
-<img src="https://i.imgur.com/ZgJmP3Z.gif" alt="Cyberpunk Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/dev-abda/Readmes-Gifs/main/Dividers/ZgJmP3Z.gif" alt="Cyberpunk Divider" width="100%"/>
 
 ### <p align="center"> ✜ CYBERNETIC ARSENAL ✜ </p>
 
@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-<img src="https://i.imgur.com/ZgJmP3Z.gif" alt="Cyberpunk Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/dev-abda/Readmes-Gifs/main/Dividers/ZgJmP3Z.gif" alt="Cyberpunk Divider" width="100%"/>
 
 ### <p align="center"> 📈 DATA STREAM & ACTIVITY LOG 📈 </p>
 
@@ -67,7 +67,7 @@
   <img src="https://github.com/abda-24/abda-24/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
 
-<img src="https://i.imgur.com/ZgJmP3Z.gif" alt="Cyberpunk Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/dev-abda/Readmes-Gifs/main/Dividers/ZgJmP3Z.gif" alt="Cyberpunk Divider" width="100%"/>
 
 ### <p align="center"> 📲 ESTABLISH COMMS-LINK 📲 </p>
 
@@ -78,5 +78,5 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/sS5iI1z.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/dev-abda/Readmes-Gifs/main/Banners/sS5iI1z.gif" width="100%"/>
 </div>
