@@ -1,156 +1,89 @@
 <div align="center">
-
-<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                @keyframes gradient-animation {
-                    0% {
-                        background-position: 0% 50%;
-                    }
-                    50% {
-                        background-position: 100% 50%;
-                    }
-                    100% {
-                        background-position: 0% 50%;
-                    }
-                }
-                .container {
-                    background: linear-gradient(-45deg, #0d1117, #161b22, #0d1117, #21262d);
-                    background-size: 400% 400%;
-                    animation: gradient-animation 10s ease infinite;
-                    height: 200px;
-                    width: 800px;
-                    display: flex;
-                    flex-direction: column;
-                    align-items: center;
-                    justify-content: center;
-                    text-align: center;
-                    border-radius: 10px;
-                }
-                h1 {
-                    font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
-                    font-size: 42px;
-                    color: #c9d1d9;
-                    font-weight: 600;
-                    margin: 0;
-                    text-shadow: 2px 2px 4px #010409;
-                }
-                p {
-                    font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
-                    font-size: 20px;
-                    color: #8b949e;
-                    margin: 10px 0 0 0;
-                }
-            </style>
-            <div class="container">
-                <h1>Abdullah Elbanna</h1>
-                <p>Full-Stack .NET Architect & Frontend Enthusiast</p>
-            </div>
-        </div>
-    </foreignObject>
-</svg>
-
+  <img src="https://i.imgur.com/LeGj8O6.gif" width="100%"/>
 </div>
 
-<br>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdullah-elbana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/abda-24">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Hey!+I'm+Abdullah+Elbanna;A+Passionate+.NET+Developer;Building+the+Future+of+the+Web" alt="Typing SVG" />
   </a>
-  <a href="mailto:contact.elbana@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</div>
+
+<p align="center">
+  <a href="https://github.com/abda-24?tab=followers">
+    <img src="https://img.shields.io/github/followers/abda-24?style=for-the-badge&color=00FF7F&labelColor=1A1B27" alt="GitHub followers">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abda-24&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <a href="https://github.com/abda-24">
+    <img src="https://komarev.com/ghpvc/?username=abda-24&style=for-the-badge&color=8A2BE2&labelColor=1A1B27" alt="Profile views">
+  </a>
+</p>
+
+  
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="100" height="100" />
 </div>
 
 ---
 
-### **Hello there! I'm Abdullah. 👋**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> About Me
 
-I am a results-oriented **Full-Stack Developer** with a deep passion for building robust and scalable applications using the **.NET ecosystem**. I architect and develop clean, efficient backend solutions and combine them with modern, responsive frontend frameworks like **Angular** to deliver seamless user experiences. My goal is to write code that is not just functional but also maintainable and elegant.
-
-* 🔭 I’m currently working on enhancing my skills in **Microservices Architecture** and **Cloud Deployment on Azure**.
-* 🌱 I’m always learning and exploring new patterns in software design.
-* 💬 Ask me about **C#, ASP.NET Core, Angular, SQL, or anything related to software architecture**.
-* 📫 How to reach me: **contact.elbana@gmail.com**
-
-<br>
+I'm a passionate **Full-Stack Developer** from Egypt, with a strong foundation in **.NET Backend technologies** and a keen eye for engaging **Frontend experiences** using Angular. I thrive on building robust, high-performance, and user-friendly web applications that solve real-world problems. My journey is driven by a desire to understand every layer of a system and deliver end-to-end excellence.
 
 ---
 
-### **My Tech Stack & Tools 🛠️**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" /> My Tech Arsenal
 
-<details>
-<summary><strong>Backend Development ⚙️</strong></summary>
-<br>
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/signalr/signalr-original.svg" height="40" alt="SignalR logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo"/>
-</p>
-</details>
-
-<details>
-<summary><strong>Frontend Development 🎨</strong></summary>
-<br>
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass logo"/>
-</p>
-</details>
-
-<details>
-<summary><strong>Databases & Cloud ☁️</strong></summary>
-<br>
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" height="40" alt="Azure logo"/>
-</p>
-</details>
-<br>
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">Backend & Core 🧠</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,redis,postgres,git,postman&theme=dark&perline=4" />
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">Frontend & UI/UX 🎨</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,figma&theme=dark&perline=4" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### **My GitHub Activity & Stats 📊**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> GitHub Stats & Activity
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abda-24&show_icons=true&theme=transparent&bg_color=0d1117&text_color=c9d1d9&title_color=61dafb" alt="Abdullah's GitHub Stats" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abda-24&layout=compact&theme=transparent&bg_color=0d1117&text_color=c9d1d9&title_color=61dafb" alt="Top Languages" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abda-24&theme=dark&background=0d1117&border=61dafb&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abda-24&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1A1B27" alt="Abdullah's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abda-24&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27" alt="Top Languages" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github.com/abda-24/abda-24/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</div>
 
 ---
 
-### **My Featured Projects 🚀**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> Let's Connect!
 
-*Your pinned repositories will automatically appear here. Make sure to pin your best projects!*
-<br>
-<br>
+<p align="center">
+  I'm always excited to collaborate on interesting projects or just chat about tech. Feel free to reach out!
+</p>
+
+<p align="center">
+  <a href="mailto:contact.elbana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abdullah-elbana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
 
 <div align="center">
-  <p>&copy; Abdullah Elbanna | Built with passion and code.</p>
+  <img src="https://i.imgur.com/LeGj8O6.gif" width="100%"/>
 </div>
