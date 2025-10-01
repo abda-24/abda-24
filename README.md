@@ -1,95 +1,94 @@
-<div align="center">
-  <img src="https://i.imgur.com/Pl3Y24I.gif" alt="Digital Matrix GIF" width="800"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Greetings,+Digital+Voyager!;I'm+Abdullah+Elbanna;Architecting+Realities+with+.NET" alt="Typing SVG" />
-</div>
-
-  
-
-
 <p align="center">
-  <a href="https://github.com/abda-24?tab=followers">
-    <img src="https://img.shields.io/github/followers/abda-24?style=for-the-badge&logo=github&color=000&labelColor=39FF14" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/abda-24">
-    <img src="https://komarev.com/ghpvc/?username=abda-24&style=for-the-badge&color=8A2BE2&labelColor=000" alt="Profile views">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=abda-24&style=for-the-badge&color=6272a4" alt="Profile views"/>
 </p>
 
-<img src="https://i.imgur.com/1E4hYtZ.gif" alt="Neon Divider" width="100%"/>
-
-### <p align="center">🚀 About Me 🚀</p>
-
-<p align="center">
-  <img align="right" src="https://i.imgur.com/T8W1vIu.gif" width="300" alt="Coder GIF">
-  <em>
-    A Full-Stack Developer from the heart of Egypt, on a mission to forge robust and beautiful digital experiences. My world revolves around the powerful backend logic of <strong>.NET</strong> and the fluid, interactive frontend artistry of <strong>Angular</strong>. I don't just write code; I build bridges between human needs and digital solutions.
-  </em>
-</p>
-
-<br clear="right"/>
-
-<img src="https://i.imgur.com/1E4hYtZ.gif" alt="Neon Divider" width="100%"/>
-
-### <p align="center">🛠️ My Digital Toolkit 🛠️</p>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="500">
-      <h3 align="center">Backend & Core Technologies 🧠</h3>
-      <p align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/c-sharp-logo.png" title="C#"/>
-        <img src="https://img.icons8.com/color/48/000000/dot-net-framework.png" title=".NET"/>
-        <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure"/>
-        <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
-        <img src="https://img.icons8.com/color/48/000000/redis.png" title="Redis"/>
-        <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
-        <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-      </p>
+    <td width="70%">
+      <a href="https://github.com/abda-24">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=BD93F9&width=435&lines=Hi+there%2C+I'm+Abdullah+Elbanna+%F0%9F%91%8B;Full-Stack+.NET+Developer;Digital+Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+      </a>
+      <br><br>
+      <h4 align="left">
+        I am a passionate Full-Stack Developer specializing in building robust, scalable backend systems with <strong>.NET</strong> and crafting beautiful, responsive user interfaces with <strong>Angular</strong>. My mission is to architect and develop end-to-end solutions that are not only functional but also elegant and efficient. I thrive in challenging environments and I'm constantly exploring new technologies to push the boundaries of what's possible.
+      </h4>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="500">
-      <h3 align="center">Frontend & UI/UX 🎨</h3>
-      <p align="center">
-        <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/>
-        <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/>
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
-        <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
-        <img src="https://img.icons8.com/color/48/000000/sass.png" title="Sass"/>
-        <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/>
-        <img src="https://img.icons8.com/color/48/000000/figma.png" title="Figma"/>
-      </p>
+    <td width="30%">
+      <img src="https://i.imgur.com/your-cool-gif.gif" alt="Coding GIF" style="border-radius: 15px;">
     </td>
   </tr>
 </table>
 
-<img src="https://i.imgur.com/1E4hYtZ.gif" alt="Neon Divider" width="100%"/>
-
-### <p align="center">📊 My GitHub Universe 📊</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6272a4&height=120&section=header&text=My%20Tech%20Arsenal%20%E2%9A%94%EF%B8%8F" alt="Tech Arsenal Header"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abda-24&show_icons=true&theme=neon&hide_border=true&count_private=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14" alt="Abdullah's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abda-24&layout=compact&theme=neon&hide_border=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14" alt="Top Languages" />
+  <h3>Backend & Core Technologies 🧠</h3>
+  <p align="center">
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt="dotnetcore logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="sqlserver logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="45" alt="docker logo"/></a>
+    <img width="12" />
+     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" height="45" alt="azure logo"/></a>
+  </p>
+  <h3>Frontend & UI/UX 🎨</h3>
+  <p align="center">
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="45" alt="angular logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="sass logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"/></a>
+  </p>
+  <h3>Tools & Workflow 🛠️</h3>
+  <p align="center">
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="postman logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"/></a>
+    <img width="12" />
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"/></a>
+  </p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6272a4&height=120&section=header&text=My%20Digital%20Footprint%20%F0%9F%93%88" alt="GitHub Stats Header"/>
 
 <div align="center">
-  <img src="https://github.com/abda-24/abda-24/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github-readme-stats.vercel.app/api?username=abda-24&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abda-24&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abda-24&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<img src="https://i.imgur.com/1E4hYtZ.gif" alt="Neon Divider" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6272a4&height=120&section=header&text=My%20Featured%20Projects%20%F0%9F%9A%80" alt="Pinned Projects Header"/>
 
-### <p align="center">📬 Get In Touch 📬</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6272a4&height=120&section=header&text=Let's%20Connect!%20%F0%9F%91%AF" alt="Connect Header"/>
 
 <p align="center">
-  <a href="mailto:contact.elbana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact.elbana@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/abdullah-elbana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-elbana/"></a>
-  <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/your_twitter_handle"></a>
+  <strong>I'm always open to new opportunities and collaborations. Feel free to reach out!</strong>
 </p>
+<p align="center">
+  <a href="mailto:contact.elbana@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-elbana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  </p>
 
-<div align="center">
-  <img src="https://i.imgur.com/Pl3Y24I.gif" alt="Digital Matrix GIF" width="800"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6272a4&height=80&section=footer" alt="Footer"/>
