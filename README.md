@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00D2FF&center=true&vCenter=true&width=1000&lines=I'M+ABDULLAH+ELBANNA;FULL-STACK+.NET+ENGINEER;BACKEND+ARCHITECTURE+SPECIALIST;BUILDING+SCALABLE+SYSTEMS;MICROSERVICES+%7C+CLEAN+ARCHITECTURE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00D2FF&center=true&vCenter=true&width=900&lines=Abdullah+Elbanna;Backend+.NET+Engineer;Building+Scalable+Systems;Clean+Architecture+Enthusiast" />
 
 <p align="center">
   <a href="https://github.com/abda-24">
@@ -14,10 +14,10 @@
 
 ---
 
-# 🧠 Abdullah Elbanna
+# 👨‍💻 Abdullah Elbanna
 
 ```diff
-+ Backend Engineer | .NET Specialist | Clean Architecture Advocate
++ Backend Engineer (.NET) | Focused on Scalable Systems & Clean Architecture
 ```
 
 ---
@@ -27,27 +27,20 @@
 ```yaml
 Name: Abdullah Elbanna
 Role: Backend .NET Engineer
-Focus: Building scalable, maintainable, high-performance systems
+Focus: Scalable APIs, System Design, Maintainable Code
 ```
 
-* 💻 Strong focus on **Backend Engineering & System Design**
-* 🏗️ Passionate about **Clean Architecture & SOLID Principles**
-* ⚡ Building **Scalable APIs & Microservices**
-* 🧠 Always learning advanced **Software Engineering Concepts**
-* 🎯 Goal: Become a **Top-tier Backend Architect**
+I’m a backend engineer passionate about building reliable and scalable systems using .NET.
+I focus on writing clean, maintainable code and designing systems that can grow with real-world demands.
 
 ---
 
-## 🛡️ System Diagnostics
+## 💡 What I Do
 
-```yaml
-Status: Online & Ready 🚀
-Current_State: Shipping Code
-Architecture_Mode: Clean Architecture
-Thinking_Mode: Scalable Systems
-Debug_Level: Expert
-Coffee_Level: Critical ☕
-```
+* 💻 Build RESTful APIs using .NET
+* 🏗️ Design systems using Clean Architecture principles
+* ⚡ Optimize performance and scalability
+* 🧠 Continuously learning system design & backend best practices
 
 ---
 
@@ -64,43 +57,49 @@ Coffee_Level: Critical ☕
 * Clean Architecture
 * SOLID Principles
 * RESTful APIs
-* Microservices Architecture
+* Microservices (learning & applying)
 * Design Patterns
 
-### ⚙️ DevOps & Tools
+### ⚙️ Tools & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
-### 🎨 Frontend (Basics)
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
 ---
 
-## 🧩 Architecture Mindset
+## 🧪 Featured Project
 
-```text
-✔ Separation of Concerns
-✔ Scalable System Design
-✔ Performance Optimization
-✔ Maintainability First
-✔ Clean Code Always
-✔ Problem Solving Mindset
+### 🔥 SmartFlow – Enterprise Management System
+
+```yaml
+Type: Backend System
+Architecture: Clean Architecture
 ```
 
+### 📌 What it does:
+
+* Manages business workflows and operations
+* Provides modular and scalable backend structure
+* Handles authentication & authorization
+* Designed with separation of concerns and maintainability in mind
+
+### ⚙️ Key Highlights:
+
+* 🧱 Modular architecture (Domain / Application / Infrastructure)
+* 🔐 Secure authentication system
+* ⚡ Optimized API performance
+* 📊 Real-world business logic implementation
+
+👉 *(Add repo link هنا لو متاح)*
+
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abda-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abda-24&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abda-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
@@ -108,35 +107,13 @@ Coffee_Level: Critical ☕
 
 ---
 
-## 🧪 Current Project
+## 🎯 2026 Goals
 
-### 🔥 SmartFlow - Enterprise Management System
-
-```yaml
-Architecture: Clean Architecture
-Type: Enterprise System
-Focus:
-  - Scalability
-  - Performance
-  - Real-world Business Logic
-```
-
-### Features:
-
-* 🧱 Modular Architecture
-* 🔐 Authentication & Authorization
-* ⚡ High-performance APIs
-* 📊 Business Workflow Automation
-
----
-
-## 📈 2026 Goals
-
-* 🚀 Master Microservices Architecture
-* 🧠 Deep dive into System Design
-* ⚡ Build Production-Ready Systems
-* 🏗️ Contribute to Open Source
-* 💼 Land a Backend Engineer Role
+* 🚀 Strengthen Microservices Architecture knowledge
+* 🧠 Improve System Design skills
+* ⚡ Build production-ready backend systems
+* 🌍 Contribute to open source
+* 💼 Land a Backend Engineer role
 
 ---
 
@@ -160,27 +137,19 @@ Focus:
 
 ---
 
-## 🧠 Dev Quote
+## 🧠 Dev Philosophy
 
 <div align="center">
 
-🔥 "Great systems are not built by chance, they are architected."
+"Good code works. Great systems scale."
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/abda-24/abda-24/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <div align="center">
 
-⭐ Don't forget to star your favorite repositories
-🚀 Always building. Always improving.
+⭐ Check out my repositories
+🚀 Always learning. Always building.
 
 </div>
